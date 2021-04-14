@@ -1,0 +1,192 @@
+[
+  {
+    "key": "Cái bàn",
+    "value": "つくえ",
+    "is_enable": true
+  },
+  {
+    "key": "Cái ghế",
+    "value": "いす",
+    "is_enable": true
+  },
+  {
+    "key": "cái bảng",
+    "value": "こくばん",
+    "is_enable": true
+  },
+  {
+    "key": "Cái cặp",
+    "value": "かばん",
+    "is_enable": true
+  },
+  {
+    "key": "Quyển sách",
+    "value": "ほん",
+    "is_enable": true
+  },
+  {
+    "key": "Sổ tay",
+    "value": "てちょう",
+    "is_enable": true
+  },
+  {
+    "key": "Tờ báo",
+    "value": "しんぶん",
+    "is_enable": true
+  },
+  {
+    "key": "Tạp chí",
+    "value": "ざっし",
+    "is_enable": true
+  },
+  {
+    "key": "Từ điển",
+    "value": "じしょ",
+    "is_enable": true
+  },
+  {
+    "key": "Bút chì",
+    "value": "えんぴつ",
+    "is_enable": true
+  },
+  {
+    "key": "Gôm, tẩy",
+    "value": "けしごむ",
+    "is_enable": true
+  },
+  {
+    "key": "Đồng hồ",
+    "value": "とけい",
+    "is_enable": true
+  },
+  {
+    "key": "Mắt kính",
+    "value": "めがね",
+    "is_enable": true
+  },
+  {
+    "key": "Chìa khoá",
+    "value": "かぎ",
+    "is_enable": true
+  },
+  {
+    "key": "Máy quạt",
+    "value": "けんぷうき",
+    "is_enable": true
+  },
+  {
+    "key": "Nhật Bản",
+    "value": "にほん",
+    "is_enable": true
+  },
+  {
+    "key": "Trung Quốc",
+    "value": "ちゅうごく",
+    "is_enable": true
+  },
+  {
+    "key": "Việt Nam",
+    "value": "べとなむ",
+    "is_enable": true
+  },
+  {
+    "key": "Xe hơi",
+    "value": "くるま",
+    "is_enable": true
+  },
+  {
+    "key": "Xe đạp",
+    "value": "じてんしゃ",
+    "is_enable": true
+  },
+  {
+    "key": "Bản đồ",
+    "value": "ちず",
+    "is_enable": true
+  },
+  {
+    "key": "Thùng rác",
+    "value": "ごみばこ",
+    "is_enable": true
+  },
+  {
+    "key": "Trường học",
+    "value": "がっこう",
+    "is_enable": true
+  },
+  {
+    "key": "Trường tiểu học",
+    "value": "しょうがっこう",
+    "is_enable": true
+  },
+  {
+    "key": "Trường cấp 2",
+    "value": "ちゅうがっこう",
+    "is_enable": true
+  },
+  {
+    "key": "Trường cấp 3",
+    "value": "こうこう",
+    "is_enable": true
+  },
+  {
+    "key": "Kim từ điển",
+    "value": "でんしじしょ",
+    "is_enable": false
+  },
+  {
+    "key": "Hộp viết",
+    "value": "ふでばこ",
+    "is_enable": false
+  },
+  {
+    "key": "Gọt bút chì",
+    "value": "えんぴつけずり",
+    "is_enable": false
+  },
+  {
+    "key": "Cây dù",
+    "value": "かさ",
+    "is_enable": false
+  },
+  {
+    "key": "Cái nón, Cái mũ",
+    "value": "ばうし",
+    "is_enable": false
+  },
+  {
+    "key": "Ví, bóp",
+    "value": "さいふ",
+    "is_enable": false
+  },
+  {
+    "key": "Điện thoại",
+    "value": "でんわ",
+    "is_enable": false
+  },
+  {
+    "key": "Điện thoại di động",
+    "value": "けいたいでんわ",
+    "is_enable": false
+  },
+  {
+    "key": "Bóng đèn, điện",
+    "value": "でんき",
+    "is_enable": false
+  },
+  {
+    "key": "Bóng đèn",
+    "value": "けいこうとう",
+    "is_enable": false
+  },
+  {
+    "key": "Đàn ông, con trai, phụ nam",
+    "value": "おとこの　ひと",
+    "is_enable": false
+  },
+  {
+    "key": "Đàn bà, con gái, phụ nữ",
+    "value": "おんなの　ひと",
+    "is_enable": false
+  }
+]
